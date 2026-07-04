@@ -1,0 +1,6 @@
+{
+  "name": "banke",
+  "description": "A premium, feature-rich conversational AI assistant inspired by Google Gemini, built using Jetpack Compose and Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
